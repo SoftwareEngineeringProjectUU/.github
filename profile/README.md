@@ -1,6 +1,6 @@
 # PlanMoor
 
-[![Coverage](https://codecov.io/gh/SoftwareEngineeringProjectUU/PlanMoor/branch/main/graph/badge.svg?token=7e55683c-95fd-4830-8fe8-ba43e2209e7d)](https://codecov.io/gh/SoftwareEngineeringProjectUU/PlanMoor)
+[![Coverage](https://codecov.io/gh/SoftwareEngineeringProjectUU/PlanMoor/branch/main/graph/badge.svg?token=TK8ZDQ2ZZO)](https://codecov.io/gh/SoftwareEngineeringProjectUU/PlanMoor)
 
 **PlanMoor** is WIP...
 
