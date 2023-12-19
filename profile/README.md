@@ -2,7 +2,7 @@
 
 [![Coverage](https://codecov.io/gh/SoftwareEngineeringProjectUU/PlanMoor/branch/main/graph/badge.svg?token=TK8ZDQ2ZZO)](https://codecov.io/gh/SoftwareEngineeringProjectUU/PlanMoor)
 
-**PlanMoor** is WIP...
+_PlanMoor_ streamlines desktop maritime mooring planning, featuring a user-centric GUI design, intuitive vessel and harbour templating tools, and versatile export capabilities, including industry-standard PDF format.
 
 ### Contributors
 
