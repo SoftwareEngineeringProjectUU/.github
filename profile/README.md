@@ -9,4 +9,4 @@ _PlanMoor_ streamlines desktop maritime mooring planning, featuring a user-centr
 * [Isak Almgren](https://github.com/kotodox)
 * [Richard Götherström](https://github.com/RichardG99)
 * [Adam Ross](https://github.com/R055A)
-* [Viktor Ytterborn](https://github.com/RichardG99)
+* [Viktor Ytterborn](https://github.com/ViktorYtterborn)
